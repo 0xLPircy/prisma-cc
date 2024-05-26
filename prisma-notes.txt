@@ -1,0 +1,7 @@
+- models are like schemas
+- schema.prisma mai create then migrate
+    ` npx prisma migrate dev --name init `
+    this creates sql stuff
+- now prisma client to interacti with above created db
+    create index.ts import there
+    can no use this to query the data
