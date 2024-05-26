@@ -5,3 +5,6 @@
 - now prisma client to interacti with above created db
     create index.ts import there
     can no use this to query the data
+
+- for GUI 
+    `npx prisma studio`
